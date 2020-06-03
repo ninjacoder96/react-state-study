@@ -8,4 +8,4 @@ class Navigation extends Component {
     );
   }
 }
-export default Navigation; // Don’t forget to use export default!
+export default Navigation; 
